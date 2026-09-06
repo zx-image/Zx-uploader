@@ -1,4 +1,4 @@
-# NoBlur
+# Zx-uploader 
 
 Post TikTok videos without the blur. All processing happens in your browser — no data ever leaves your machine.
 
